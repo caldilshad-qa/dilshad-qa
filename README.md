@@ -1,2 +1,8 @@
-# dilshad-qa
-# Hi, I'm Md Dilshad 👋 ###Senior Software Test Engineer | QA Automation | FinTech Domain  - 🔍 3+ years of experience in QA   - 🌱 Currently learning Cypress &amp; JavaScript   - 🚀 Interested in Automation Framework &amp; API Testing   - 📫 Email: caldilshad@gmail.com  
+Hi, I'm Md Dilshad 👋
+Software Test Engineer | QA Automation (Cypress)
+🔍 3+ years experience in Manual & Automation Testing
+⚙️ Skilled in Cypress with JavaScript (E2E Automation)
+🧪 Experience in regression, functional & API testing
+🚀 Built Cypress automation framework using Git & GitHub
+📊 Interested in scalable QA automation & test frameworks
+📫 Email: caldilshad@gmail.com
